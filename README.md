@@ -13,3 +13,16 @@ Week 2 = Exploratory Data Analysis (SQL, Pandas and Matplotlib).
 - Write Python code to conduct exploratory data analysis by manipulating data in a Pandas data frame.
 - Write and execute SQL queries to select and sort data.
 - Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
+
+Week 3 = Interactive Visual Analytics and Dashboard. 
+- Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library.
+- Calculate distances on an interactive map by writing Python code using the Folium library.
+- Generate interactive maps, plot coordinates, and mark clusters by writing Python code using the Folium library.
+- Build a dashboard to analyze launch records interactively with Plotly Dash.
+- Build an interactive map to analyze the launch site proximity with Folium.
+
+Week 4 = Predictive Analysis (Classification). 
+- Split the data into training testing data.
+- Train different classification models.
+- Hyperparameter grid search.
+- Use your machine learning skills to build a predictive model to help a business function more efficiently.
